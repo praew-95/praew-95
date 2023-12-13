@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praew-95
+
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,7 +9,8 @@ praew-95/praew-95 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">🌱 frontend developer 🌱</h3>
+<h3 align="center">👋 Hi, I’m @praew-95 👋</h3>
+<h5 align="center">🌱 frontend developer 🌱</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
